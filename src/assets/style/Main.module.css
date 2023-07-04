@@ -1,0 +1,18 @@
+@import './globals.css';
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100vw;
+  /* height: 100vh; */
+  justify-content: center;
+}
+
+.sticky {
+  min-width: 1120px;
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
